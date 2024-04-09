@@ -1,0 +1,671 @@
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test New\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\Test LD\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 15\Code 15\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\Backup\Code 15_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Code\DACN_final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 16\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 16_fix\Code 16\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+E:\hoctap\hk7\DoAnChuyenNganh\Code 17_Final\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\Code 17_Final_2\Code 17_Final\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\appsettings.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.exe
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.deps.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.runtimeconfig.dev.json
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.AssemblyReference.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfoInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.AssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CoreCompileInputs.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.Manifest.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\staticwebassets\DoAn_API.StaticWebAssets.xml
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\scopedcss\bundle\DoAn_API.styles.css
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.RazorTargetAssemblyInfo.cache
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.csproj.CopyComplete
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\ref\DoAn_API.dll
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.pdb
+C:\Users\vuvo0\OneDrive\Desktop\DoAnChuyenNganh\Tổng hợp\WebQuanLyDoAnKhoaLuan\Source code\DoAn_API\DoAn_API\obj\Debug\net5.0\DoAn_API.genruntimeconfig.cache
